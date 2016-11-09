@@ -1,47 +1,47 @@
 @font-face {
   font-family: 'ADAM-CGPRO';
-  src: url('../fonts/ADAM-CGPRO.eot?#iefix') format('embedded-opentype'),  url('../fonts/ADAM-CGPRO.otf')  format('opentype'),
-	     url('../fonts/ADAM-CGPRO.woff') format('woff'), url('../fonts/ADAM-CGPRO.ttf')  format('truetype'), url('../fonts/ADAM-CGPRO.svg#ADAM.CGPRO') format('svg');
+  src: url('http://52.37.84.217/edusitio-cier/fonts/ADAM-CGPRO.eot?#iefix') format('embedded-opentype'),  url('http://52.37.84.217/edusitio-cier/fonts/ADAM-CGPRO.otf')  format('opentype'),
+	     url('http://52.37.84.217/edusitio-cier/fonts/ADAM-CGPRO.woff') format('woff'), url('http://52.37.84.217/edusitio-cier/fonts/ADAM-CGPRO.ttf')  format('truetype'), url('http://52.37.84.217/edusitio-cier/fonts/ADAM-CGPRO.svg#ADAM.CGPRO') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'MyriadPro-Bold';
-  src: url('../fonts/MyriadPro-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/MyriadPro-Bold.otf')  format('opentype'),
-	     url('../fonts/MyriadPro-Bold.woff') format('woff'), url('../fonts/MyriadPro-Bold.ttf')  format('truetype'), url('../fonts/MyriadPro-Bold.svg#MyriadPro-Bold') format('svg');
+  src: url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Bold.eot?#iefix') format('embedded-opentype'),  url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Bold.otf')  format('opentype'),
+	     url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Bold.woff') format('woff'), url('../fonts/MyriadPro-Bold.ttf')  format('truetype'), url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Bold.svg#MyriadPro-Bold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'MyriadPro-BoldCond';
-  src: url('../fonts/MyriadPro-BoldCond.eot?#iefix') format('embedded-opentype'),  url('../fonts/MyriadPro-BoldCond.otf')  format('opentype'),
-	     url('../fonts/MyriadPro-BoldCond.woff') format('woff'), url('../fonts/MyriadPro-BoldCond.ttf')  format('truetype'), url('../fonts/MyriadPro-BoldCond.svg#MyriadPro-BoldCond') format('svg');
+  src: url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-BoldCond.eot?#iefix') format('embedded-opentype'),  url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-BoldCond.otf')  format('opentype'),
+	     url('.http://52.37.84.217/edusitio-cier/fonts/MyriadPro-BoldCond.woff') format('woff'), url('../fonts/MyriadPro-BoldCond.ttf')  format('truetype'), url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-BoldCond.svg#MyriadPro-BoldCond') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'MyriadPro-Light';
-  src: url('../fonts/MyriadPro-Light.eot?#iefix') format('embedded-opentype'),  url('../fonts/MyriadPro-Light.otf')  format('opentype'),
-	     url('../fonts/MyriadPro-Light.woff') format('woff'), url('../fonts/MyriadPro-Light.ttf')  format('truetype'), url('../fonts/MyriadPro-Light.svg#MyriadPro-Light') format('svg');
+  src: url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Light.eot?#iefix') format('embedded-opentype'),  url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Light.otf')  format('opentype'),
+	     url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Light.woff') format('woff'), url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Light.ttf')  format('truetype'), url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Light.svg#MyriadPro-Light') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'MyriadPro-LightIt';
-  src: url('../fonts/MyriadPro-LightIt.eot?#iefix') format('embedded-opentype'),  url('../fonts/MyriadPro-LightIt.otf')  format('opentype'),
-	     url('../fonts/MyriadPro-LightIt.woff') format('woff'), url('../fonts/MyriadPro-LightIt.ttf')  format('truetype'), url('../fonts/MyriadPro-LightIt.svg#MyriadPro-LightIt') format('svg');
+  src: url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-LightIt.eot?#iefix') format('embedded-opentype'),  url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-LightIt.otf')  format('opentype'),
+	     url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-LightIt.woff') format('woff'), url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-LightIt.ttf')  format('truetype'), url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-LightIt.svg#MyriadPro-LightIt') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'MyriadPro-Regular';
-  src: url('../fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),  url('../fonts/MyriadPro-Regular.otf')  format('opentype'),
-	     url('../fonts/MyriadPro-Regular.woff') format('woff'), url('../fonts/MyriadPro-Regular.ttf')  format('truetype'), url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+  src: url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),  url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Regular.otf')  format('opentype'),
+	     url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Regular.woff') format('woff'), url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Regular.ttf')  format('truetype'), url('http://52.37.84.217/edusitio-cier/fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
