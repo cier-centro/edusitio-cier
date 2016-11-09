@@ -1,0 +1,407 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	color: white;
+	background-color: #C6C6C6;
+	font-family: 'MyriadPro-Light';
+}
+
+@font-face {
+  font-family: 'MyriadPro-Bold';
+  src: url('../fonts/MyriadPro-Bold.eot?#iefix') format('embedded-opentype'),  url('../fonts/MyriadPro-Bold.otf')  format('opentype'),
+	     url('../fonts/MyriadPro-Bold.woff') format('woff'), url('../fonts/MyriadPro-Bold.ttf')  format('truetype'), url('../fonts/MyriadPro-Bold.svg#MyriadPro-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro-BoldCond';
+  src: url('../fonts/MyriadPro-BoldCond.eot?#iefix') format('embedded-opentype'),  url('../fonts/MyriadPro-BoldCond.otf')  format('opentype'),
+	     url('../fonts/MyriadPro-BoldCond.woff') format('woff'), url('../fonts/MyriadPro-BoldCond.ttf')  format('truetype'), url('../fonts/MyriadPro-BoldCond.svg#MyriadPro-BoldCond') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro-Light';
+  src: url('../fonts/MyriadPro-Light.eot?#iefix') format('embedded-opentype'),  url('../fonts/MyriadPro-Light.otf')  format('opentype'),
+	     url('../fonts/MyriadPro-Light.woff') format('woff'), url('../fonts/MyriadPro-Light.ttf')  format('truetype'), url('../fonts/MyriadPro-Light.svg#MyriadPro-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro-LightIt';
+  src: url('../fonts/MyriadPro-LightIt.eot?#iefix') format('embedded-opentype'),  url('../fonts/MyriadPro-LightIt.otf')  format('opentype'),
+	     url('../fonts/MyriadPro-LightIt.woff') format('woff'), url('../fonts/MyriadPro-LightIt.ttf')  format('truetype'), url('../fonts/MyriadPro-LightIt.svg#MyriadPro-LightIt') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro-Regular';
+  src: url('../fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),  url('../fonts/MyriadPro-Regular.otf')  format('opentype'),
+	     url('../fonts/MyriadPro-Regular.woff') format('woff'), url('../fonts/MyriadPro-Regular.ttf')  format('truetype'), url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.edusitio-ciers
+{
+	color: white;
+	font-family: 'MyriadPro-Light';
+}
+
+.edusitio-ciers p
+{
+	font-family: 'MyriadPro-Light';
+}
+
+.btn-primary a
+{
+	color: white;
+}
+
+.btn-primary a:hover
+{
+	color: white;
+}
+
+.container
+{
+	background-color: white;
+}
+
+.banner-edusitio-ciers
+{
+	min-height: 100px;
+	background-color: white;
+	padding: 10px 0;
+}
+
+.logo
+{
+	width: 280px;
+	height: 100px;
+	float: left;
+}
+
+.fondoGris
+{
+	background-color: #333333;
+}
+
+.fondoGris2
+{
+	background-color: #969696;
+}
+
+.fondoGrisClaro
+{
+	background-color: #EAEAEA;
+}
+
+.edusitio-ciers .infoGeneral,.edusitio-ciers .areasDeTrabajo,.edusitio-ciers .investigacion,.edusitio-ciers .infraestructura
+{
+	padding: 25px 50px;
+}
+
+
+.blanco
+{
+	color: white;
+}
+
+.spanBlanco
+{
+	color: white;
+}
+
+.barraInferior
+{
+	height: 25px;
+	background-color: red;
+	background-image: url(../images/barraInferior-01.jpg);
+	background-size: cover;
+}
+
+.boton1,.boton2,.boton3,.boton4,.boton5
+{
+	height: 480px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.boton1
+{
+	background-image: url(../images/CierNorte.jpg);
+}
+
+.boton2
+{
+	background-image: url(../images/CierOriente.jpg);
+}
+
+.boton3
+{
+	background-image: url(../images/CierCentro.jpg);
+}
+
+.boton4
+{
+	background-image: url(../images/CierOccidente.jpg);
+}
+
+.boton5
+{
+	background-image: url(../images/CierSur.jpg);
+}
+
+.edusitio-ciers h1,h2,h3,h4,h5,h6
+{
+	color: #333333;
+	font-family: 'MyriadPro-BoldCond';
+}
+
+.edusitio-ciers h2
+{
+	font-size: 2em;
+}
+
+.tituloCentrado
+{
+	text-align: center;
+}
+
+.parrafoOscuro
+{
+	color: #333333;
+}
+
+.parrafoBlanco
+{
+	color: white;
+}
+
+.paddingIzq
+{
+	padding-left: 15px;
+}
+
+.botonInfoGeneral
+{
+	float: none;
+	margin: 5px auto;
+	width: 100%;
+}
+
+.cajaBotones_infoGeneral
+{
+	text-align: center;
+}
+
+.imagenCentrada
+{
+	margin: 0 auto;
+}
+
+.tituloItalica
+{
+	font-family: 'MyriadPro-LightIt';
+	font-size: 1.2em;
+}
+
+.tituloItalica a
+{
+	margin-left: 20px;
+}
+
+.tituloBlanco
+{
+	color: white;
+}
+
+.tituloCier
+{
+	padding:2px;
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+}
+
+.tituloCierSuperior
+{
+	position: absolute;
+	top:74.2%;
+	left: 0;
+	font-size: 3em;
+	font-family: 'MyriadPro-Bold';
+}
+
+.subtituloCier
+{
+	position: absolute;
+	top:87.5%;
+	left: 0;
+	font-size: 2em;
+	font-family: 'MyriadPro-Regular';
+}
+
+.botonRegresar
+{
+	float: right;
+	color: #ECC214;
+}
+
+.botonRegresar:hover
+{
+	color: #CEAA11;
+	text-decoration: underline;
+}
+
+.infoDeCier
+{
+	padding: 50px 10px 10px 10px;
+	text-align: center;
+	height: 220px;
+}
+
+.redesMapa
+{
+	height: 260px;
+	padding: 0 10px;
+}
+
+.redesMapa:last-child
+{
+		
+}
+
+a
+{
+	color: #ECC214;
+}
+
+a:hover
+{
+	color: #CEAA11;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.imagenGrandeGal
+{
+	margin-bottom: 10px;
+}
+
+.edusitio-ciers ul li
+{
+	list-style-type: disc;
+	color: white;
+	font-family: 'MyriadPro-Light';
+}
+
+.edusitio-ciers ol li
+{
+	color: white;
+	font-family: 'MyriadPro-Light';
+}
+
+
+.edusitio-ciers .listaNegra
+{
+	color: black;
+	font-family: 'MyriadPro-Light';
+}
+
+
+.edusitio-ciers .listasDer
+{
+	margin-left: 35px;
+}
+
+
+/*BOTONES*/
+
+.btn {
+    padding: 10px 20px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+ 
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+ 
+.btn-primary {
+    background: #ECC214;
+    color: #ffffff;
+}
+ 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #CEAA11;
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #ECC214;
+    box-shadow: none;
+}
+
+.btn-primary.raised {
+	box-shadow: 0 3px 0 0 #CEAA11;
+}
+
+.btn-primary.raised:active, .btn-primary.raised.active {
+	background: #ECC214;
+}
+
+/*TABS*/
+
+.nav-tabs { border-bottom: 2px solid #DDD; }
+    .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover { border-width: 0; }
+    .nav-tabs > li > a { border: none; color: #666; }
+        .nav-tabs > li.active > a, .nav-tabs > li > a:hover { border: none; color: #4285F4 !important; background: transparent; }
+        .nav-tabs > li > a::after { content: ""; background: #4285F4; height: 2px; position: absolute; width: 100%; left: 0px; bottom: -1px; transition: all 250ms ease 0s; transform: scale(0); }
+    .nav-tabs > li.active > a::after, .nav-tabs > li:hover > a::after { transform: scale(1); }
+.tab-nav > li > a::after { background: #21527d none repeat scroll 0% 0%; color: #fff; }
+.tab-pane { padding: 15px 0; }
+.tab-content{padding:20px}
+
+.card {background: #FFF none repeat scroll 0% 0%; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); margin-bottom: 30px; }
+
+/*DE PRUEBA*/
+
+.color1
+{
+	background-color: red;
+}
+
+.color2
+{
+	background-color: yellow;
+}
+
+.color3
+{
+	background-color: blue;
+}
+
+.color4
+{
+	background-color: black;
+}
+
+.color5
+{
+	background-color: green;
+}
+
+.edusitio-ciers .carousel-indicators
+{
+	left: 100px;
+	bottom:20px;
+}
+
